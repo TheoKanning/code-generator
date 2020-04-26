@@ -144,3 +144,6 @@ static
 
 # raw data files
 data/
+
+# model weights
+*.h5
