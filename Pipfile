@@ -10,7 +10,8 @@ jupyter = "*"
 gitpython = "*"
 numpy = "*"
 keras = "*"
-tensorflow = "*"
+tensorflow = "==2.1.0"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
